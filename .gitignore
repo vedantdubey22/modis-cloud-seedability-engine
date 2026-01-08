@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+virtualenv/
+
+# Data & outputs (local only)
+data/
+outputs/
+
+# Satellite data & images
+*.hdf
+*.png
