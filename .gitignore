@@ -6,10 +6,10 @@ __pycache__/
 venv/
 virtualenv/
 
-# Data & outputs (local only)
+# Data & outputs
 data/
 outputs/
 
-# Satellite data & images
+# Binary / large files
 *.hdf
 *.png
